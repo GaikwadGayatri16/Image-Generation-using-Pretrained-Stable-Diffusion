@@ -3,7 +3,7 @@
 **Student Name:** Gayatri Pandharinath Gaikwad  
 **Roll Number:** 202502110002  
 **Class:** TY – CSE (AIML)  
-**GitHub Repository:** [Add your GitHub repository link here](PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE)
+**GitHub Repository:** https://github.com/GaikwadGayatri16/Image-Generation-using-Pretrained-Stable-Diffusion
 
 ---
 
@@ -264,8 +264,7 @@ Overall, the implementation provides an understanding of latent diffusion, itera
 
 ## 12. GitHub Repository
 
-**Repository Link:** [Add your GitHub repository link here](PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE)
-
+**Repository Link:** https://github.com/GaikwadGayatri16/Image-Generation-using-Pretrained-Stable-Diffusion
 Replace the placeholder with your actual GitHub repository URL before submission.
 
 The repository should contain the Jupyter Notebook, this README file, and any selected result images or plots required for demonstration. Avoid uploading large pretrained model weights or unnecessary temporary files.
